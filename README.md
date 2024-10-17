@@ -1,5 +1,4 @@
 # Alpha Boke AI
-!()[Header]
 
 Welcome to Alpha Boke AI, your hub for open-source AI libraries and projects spanning a wide range of domains!
 
