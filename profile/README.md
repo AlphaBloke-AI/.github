@@ -1,6 +1,6 @@
 # AlphaBloke AI
 
-Welcome to Alpha Boke AI, your hub for open-source AI libraries and projects spanning a wide range of domains!
+Welcome to AlphaBokeAI, your hub for open-source AI libraries and projects spanning a wide range of domains!
 
 ## About Us
 
@@ -38,5 +38,3 @@ We welcome contributions from developers, researchers, and AI enthusiasts of all
 ## License
 
 Unless otherwise specified, all projects under Alpha Boke AI are licensed under the [MIT License](link-to-license).
-
-Join us in shaping the future of AI technology!
